@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule  ^([^/\.]+)/([^/\.]+)?$ pro.php?type=$1&alice=$2
